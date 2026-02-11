@@ -1,0 +1,4 @@
+SEO = Optimizacion como metodos de busqueda
+Los titulos de una pagina tiene gerarquias y varios niveles.
+
+Modificacion de readmi y caracteres especiales para la creacion y modificacion de la pagina general
