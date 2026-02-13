@@ -3,13 +3,24 @@
 ##  📌**1. El Problema:**
 'Esperando la respuesta de un banco con respecto a un pago o movimiento que no tenía claro.'
 
+### Lo que suele pasar con estos problemas:
+![](assets/pregunta_6.png)
+
 ## 📊**Resultads de la sonda:** 
-Se obtienen 12 respuestas y creciendo en la encuesta. En la cual el área más problemática fue la "Gestión de dinero **(35%)**, destacándose dificultades como:"
+Se obtienen 12 respuestas y creciendo en la encuesta. En la cual el área más problemática fue la "Gestión de dinero **(27.3%)**, destacándose dificultades como:"
  1. No recordar en qué se gastó el dinero.
  2. Olvidar fechas de pago.
  3. Incertidumbre sobre movimientos bancarios. 
 
     Con todo lo anterior se pudo reconocer que el nivel de frustración promedio fue de **3.82/5**, lo cual indica que el problema genera alto estrés emocional.
+
+
+### **Qué area se ve más afectada.**
+![](assets/pregunta_1.png)
+
+### **Frustración de los usuarios**
+![](assets/pregunta_5.png)
+
 
 ## 👤 ***Historia de usuario Principal***
 "Como usuario el cual desea controlar mejor sus finanzas, quiero registrar y visualizar mis ingresos y gastos de forma efectiva y fácilmente, para logra entender en qué gasto mi dineto y evitar el estrés financiero."
@@ -25,7 +36,7 @@ Se obtienen 12 respuestas y creciendo en la encuesta. En la cual el área más p
  - El sistema debe permitir registrar ingresos y gastos con montos, categorias, fechas y cortes.
 
 ### **RF-02 (Cálculos):**
- - Los calculos se deben de hacer de forma automatica, al instante y con actualización del balance disponible del usuario.
+ - El sistema debe permitir calculos se deben de hacer de forma automatica, al instante y con actualización del balance disponible del usuario.
 
 ### **RF-03 (Notificaciones):**
  - El sistema debe de enviar alertas sobre pagos próximos o presupuestos excedidos, filtración de información o la seguridad.
@@ -34,7 +45,8 @@ Se obtienen 12 respuestas y creciendo en la encuesta. En la cual el área más p
  - Este debe de mostrar reportes legibles y gráficos de gastos por categoría.
 
 
-
+# Enlace del formulario
+#### [***Link del formulario***](https://docs.google.com/forms/d/e/1FAIpQLSf786mI8fd16-Dybk3qcDLwe73EbsU2BrBhn3Mrl7iiVMIqKg/viewform?usp=header)
 
 
 |
